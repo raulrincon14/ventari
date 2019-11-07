@@ -2165,6 +2165,511 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {
     console.log('Component mounted.');
@@ -6630,7 +7135,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.form-material .form-group {\n  position: relative;\n}\n.form-material .form-group.form-static-label .form-control ~ .float-label {\n  top: -14px;\n  font-size: 11px;\n}\n.form-material .form-control {\n  display: inline-block;\n  height: 43px;\n  width: 100%;\n  border: none;\n  border-radius: 0 !important;\n  font-size: 16px;\n  font-weight: 400;\n  padding: 0;\n  background-color: transparent;\n  -webkit-box-shadow: none;\n          box-shadow: none;\n  border-bottom: 1px solid #ccc;\n}\n.form-material .form-control:focus {\n  border-color: transparent;\n  outline: none;\n  -webkit-box-shadow: none;\n          box-shadow: none;\n}\n.form-material .form-control:focus ~ .form-bar:after, .form-material .form-control:focus ~ .form-bar:before {\n  width: 50%;\n}\n.form-material .form-control:focus ~ .float-label, .form-material .form-control:valid ~ .float-label {\n  top: -14px;\n  font-size: 11px;\n}\n.form-material textarea {\n  height: 100px !important;\n}\n.form-material .form-bar {\n  position: relative;\n  display: block;\n  width: 100%;\n}\n.form-material .form-bar:after, .form-material .form-bar:before {\n  content: '';\n  height: 2px;\n  width: 0;\n  bottom: 0;\n  position: absolute;\n  transition: 0.3s ease all;\n  -moz-transition: 0.3s ease all;\n  -webkit-transition: 0.3s ease all;\n}\n.form-material .form-bar:before {\n  left: 50%;\n}\n.form-material .form-bar:after {\n  right: 50%;\n}\n.form-material .float-label {\n  pointer-events: none;\n  position: absolute;\n  top: 12px;\n  left: 0;\n  font-size: 14px;\n  font-weight: 400;\n  transition: 0.2s ease all;\n  -moz-transition: 0.2s ease all;\n  -webkit-transition: 0.2s ease all;\n}\n.form-material .material-group {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  margin-bottom: 1.25em;\n}\n.form-material .material-group .material-addone {\n  padding: 0.5rem 0.75rem;\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-align: center;\n      -ms-flex-align: center;\n          align-items: center;\n}\n.form-material .material-group .material-addone i,\n.form-material .material-group .material-addone span {\n  font-size: 20px;\n}\n.form-material .material-group .form-group {\n  -webkit-box-flex: 1;\n      -ms-flex: 1 1 auto;\n          flex: 1 1 auto;\n  width: 1%;\n  margin-bottom: 0;\n}\n.form-material .material-group.material-group-lg .material-addone {\n  padding: 0.5rem 1rem;\n}\n.form-material .material-group.material-group-lg .material-addone i,\n.form-material .material-group.material-group-lg .material-addone span {\n  font-size: 1.55rem;\n  font-weight: 500;\n}\n.form-material .material-group.material-group-lg .form-control {\n  padding: 0.5rem 0;\n  font-size: 1.25rem;\n  line-height: 1.5;\n}\n.form-material .material-group.material-group-lg .form-control:focus ~ .float-label, .form-material .material-group.material-group-lg .form-control:valid ~ .float-label {\n  top: -15px;\n  font-size: 14px;\n}\n.form-material .material-group.material-group-lg .float-label {\n  font-size: 1.25rem;\n}\n.form-material .material-group.material-group-sm .material-addone {\n  padding: 0.25rem 0.5rem;\n}\n.form-material .material-group.material-group-sm .material-addone i,\n.form-material .material-group.material-group-sm .material-addone span {\n  font-size: 0.775rem;\n}\n.form-material .material-group.material-group-sm .form-control {\n  padding: 0.25rem 0;\n  font-size: 0.875rem;\n  line-height: 1.5;\n}\n.form-material .material-group.material-group-sm .form-control:focus ~ .float-label, .form-material .material-group.material-group-sm .form-control:valid ~ .float-label {\n  top: -9px;\n  font-size: 11px;\n}\n.form-material .material-group.material-group-sm .float-label {\n  font-size: 0.775rem;\n}\n.form-material .form-primary .form-control:focus ~ label {\n  color: #448aff;\n}\n.form-material .form-primary .form-control:focus ~ .form-bar:after, .form-material .form-primary .form-control:focus ~ .form-bar:before {\n  background: #448aff;\n}\n.form-material .form-primary.form-static-label .float-label {\n  color: #448aff;\n}\n.form-material .form-primary.form-static-label .form-control {\n  border-bottom-color: #448aff;\n}\n.form-material .material-group-primary .material-addone i,\n.form-material .material-group-primary .material-addone span {\n  color: #448aff;\n}\n.form-material .form-warning .form-control:focus ~ label {\n  color: #ffe100;\n}\n.form-material .form-warning .form-control:focus ~ .form-bar:after, .form-material .form-warning .form-control:focus ~ .form-bar:before {\n  background: #ffe100;\n}\n.form-material .form-warning.form-static-label .float-label {\n  color: #ffe100;\n}\n.form-material .form-warning.form-static-label .form-control {\n  border-bottom-color: #ffe100;\n}\n.form-material .material-group-warning .material-addone i,\n.form-material .material-group-warning .material-addone span {\n  color: #ffe100;\n}\n.form-material .form-default .form-control:focus ~ label {\n  color: #d6d6d6;\n}\n.form-material .form-default .form-control:focus ~ .form-bar:after, .form-material .form-default .form-control:focus ~ .form-bar:before {\n  background: #d6d6d6;\n}\n.form-material .form-default.form-static-label .float-label {\n  color: #d6d6d6;\n}\n.form-material .form-default.form-static-label .form-control {\n  border-bottom-color: #d6d6d6;\n}\n.form-material .material-group-default .material-addone i,\n.form-material .material-group-default .material-addone span {\n  color: #d6d6d6;\n}\n.form-material .form-danger .form-control:focus ~ label {\n  color: #ff5252;\n}\n.form-material .form-danger .form-control:focus ~ .form-bar:after, .form-material .form-danger .form-control:focus ~ .form-bar:before {\n  background: #ff5252;\n}\n.form-material .form-danger.form-static-label .float-label {\n  color: #ff5252;\n}\n.form-material .form-danger.form-static-label .form-control {\n  border-bottom-color: #ff5252;\n}\n.form-material .material-group-danger .material-addone i,\n.form-material .material-group-danger .material-addone span {\n  color: #ff5252;\n}\n.form-material .form-success .form-control:focus ~ label {\n  color: #11c15b;\n}\n.form-material .form-success .form-control:focus ~ .form-bar:after, .form-material .form-success .form-control:focus ~ .form-bar:before {\n  background: #11c15b;\n}\n.form-material .form-success.form-static-label .float-label {\n  color: #11c15b;\n}\n.form-material .form-success.form-static-label .form-control {\n  border-bottom-color: #11c15b;\n}\n.form-material .material-group-success .material-addone i,\n.form-material .material-group-success .material-addone span {\n  color: #11c15b;\n}\n.form-material .form-inverse .form-control:focus ~ label {\n  color: #37474f;\n}\n.form-material .form-inverse .form-control:focus ~ .form-bar:after, .form-material .form-inverse .form-control:focus ~ .form-bar:before {\n  background: #37474f;\n}\n.form-material .form-inverse.form-static-label .float-label {\n  color: #37474f;\n}\n.form-material .form-inverse.form-static-label .form-control {\n  border-bottom-color: #37474f;\n}\n.form-material .material-group-inverse .material-addone i,\n.form-material .material-group-inverse .material-addone span {\n  color: #37474f;\n}\n.form-material .form-info .form-control:focus ~ label {\n  color: #00bcd4;\n}\n.form-material .form-info .form-control:focus ~ .form-bar:after, .form-material .form-info .form-control:focus ~ .form-bar:before {\n  background: #00bcd4;\n}\n.form-material .form-info.form-static-label .float-label {\n  color: #00bcd4;\n}\n.form-material .form-info.form-static-label .form-control {\n  border-bottom-color: #00bcd4;\n}\n.form-material .material-group-info .material-addone i,\n.form-material .material-group-info .material-addone span {\n  color: #00bcd4;\n}\nselect.form-control, select.form-control:focus, select.form-control:hover {\n  border-top: none;\n  border-right: none;\n  border-left: none;\n  -webkit-box-shadow: none;\n          box-shadow: none;\n}\n\n/* form controll end*/\n.md-input-file input[type=file] {\n  position: absolute;\n  top: 0;\n  right: 0;\n  left: 0;\n  bottom: 0;\n  width: 100%;\n  margin: 0;\n  padding: 0;\n  font-size: 20px;\n  cursor: pointer;\n  opacity: 0;\n  filter: alpha(opacity=0);\n}\n.md-input-file {\n  overflow: hidden;\n  padding-left: 10px;\n}\n.md-add-on-file {\n  float: left;\n  height: 3rem;\n  line-height: 3rem;\n}\n.md-add-on-file .btn {\n  padding: 7px 20px;\n}\n.md-form-file ~ .md-form-control {\n  opacity: 0;\n  position: absolute;\n  top: 0;\n}\n.md-input-wrapper .md-check {\n  padding-left: 0;\n  top: 0;\n}\n\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/*******************\nForm-control\n******************/\n/*Form control start*/\n.form-material .form-group {\n  position: relative;\n}\n.form-material .form-group.form-static-label .form-control ~ .float-label {\n  top: -14px;\n  font-size: 11px;\n}\n.form-material .form-control {\n  display: inline-block;\n  height: 43px;\n  width: 100%;\n  border: none;\n  border-radius: 0 !important;\n  font-size: 16px;\n  font-weight: 400;\n  padding: 0;\n  background-color: transparent;\n  -webkit-box-shadow: none;\n          box-shadow: none;\n  border-bottom: 1px solid #ccc;\n}\n.form-material .form-control:focus {\n  border-color: transparent;\n  outline: none;\n  -webkit-box-shadow: none;\n          box-shadow: none;\n}\n.form-material .form-control:focus ~ .form-bar:after, .form-material .form-control:focus ~ .form-bar:before {\n  width: 50%;\n}\n.form-material .form-control:focus ~ .float-label, .form-material .form-control:valid ~ .float-label {\n  top: -14px;\n  font-size: 11px;\n}\n.form-material textarea {\n  height: 100px !important;\n}\n.form-material .form-bar {\n  position: relative;\n  display: block;\n  width: 100%;\n}\n.form-material .form-bar:after, .form-material .form-bar:before {\n  content: '';\n  height: 2px;\n  width: 0;\n  bottom: 0;\n  position: absolute;\n  transition: 0.3s ease all;\n  -moz-transition: 0.3s ease all;\n  -webkit-transition: 0.3s ease all;\n}\n.form-material .form-bar:before {\n  left: 50%;\n}\n.form-material .form-bar:after {\n  right: 50%;\n}\n.form-material .float-label {\n  pointer-events: none;\n  position: absolute;\n  top: 12px;\n  left: 0;\n  font-size: 14px;\n  font-weight: 400;\n  transition: 0.2s ease all;\n  -moz-transition: 0.2s ease all;\n  -webkit-transition: 0.2s ease all;\n}\n.form-material .material-group {\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  margin-bottom: 1.25em;\n}\n.form-material .material-group .material-addone {\n  padding: 0.5rem 0.75rem;\n  display: -webkit-box;\n  display: -ms-flexbox;\n  display: flex;\n  -webkit-box-align: center;\n      -ms-flex-align: center;\n          align-items: center;\n}\n.form-material .material-group .material-addone i,\n.form-material .material-group .material-addone span {\n  font-size: 20px;\n}\n.form-material .material-group .form-group {\n  -webkit-box-flex: 1;\n      -ms-flex: 1 1 auto;\n          flex: 1 1 auto;\n  width: 1%;\n  margin-bottom: 0;\n}\n.form-material .material-group.material-group-lg .material-addone {\n  padding: 0.5rem 1rem;\n}\n.form-material .material-group.material-group-lg .material-addone i,\n.form-material .material-group.material-group-lg .material-addone span {\n  font-size: 1.55rem;\n  font-weight: 500;\n}\n.form-material .material-group.material-group-lg .form-control {\n  padding: 0.5rem 0;\n  font-size: 1.25rem;\n  line-height: 1.5;\n}\n.form-material .material-group.material-group-lg .form-control:focus ~ .float-label, .form-material .material-group.material-group-lg .form-control:valid ~ .float-label {\n  top: -15px;\n  font-size: 14px;\n}\n.form-material .material-group.material-group-lg .float-label {\n  font-size: 1.25rem;\n}\n.form-material .material-group.material-group-sm .material-addone {\n  padding: 0.25rem 0.5rem;\n}\n.form-material .material-group.material-group-sm .material-addone i,\n.form-material .material-group.material-group-sm .material-addone span {\n  font-size: 0.775rem;\n}\n.form-material .material-group.material-group-sm .form-control {\n  padding: 0.25rem 0;\n  font-size: 0.875rem;\n  line-height: 1.5;\n}\n.form-material .material-group.material-group-sm .form-control:focus ~ .float-label, .form-material .material-group.material-group-sm .form-control:valid ~ .float-label {\n  top: -9px;\n  font-size: 11px;\n}\n.form-material .material-group.material-group-sm .float-label {\n  font-size: 0.775rem;\n}\n.form-material .form-primary .form-control:focus ~ label {\n  color: #448aff;\n}\n.form-material .form-primary .form-control:focus ~ .form-bar:after, .form-material .form-primary .form-control:focus ~ .form-bar:before {\n  background: #448aff;\n}\n.form-material .form-primary.form-static-label .float-label {\n  color: #448aff;\n}\n.form-material .form-primary.form-static-label .form-control {\n  border-bottom-color: #448aff;\n}\n.form-material .material-group-primary .material-addone i,\n.form-material .material-group-primary .material-addone span {\n  color: #448aff;\n}\n.form-material .form-warning .form-control:focus ~ label {\n  color: #ffe100;\n}\n.form-material .form-warning .form-control:focus ~ .form-bar:after, .form-material .form-warning .form-control:focus ~ .form-bar:before {\n  background: #ffe100;\n}\n.form-material .form-warning.form-static-label .float-label {\n  color: #ffe100;\n}\n.form-material .form-warning.form-static-label .form-control {\n  border-bottom-color: #ffe100;\n}\n.form-material .material-group-warning .material-addone i,\n.form-material .material-group-warning .material-addone span {\n  color: #ffe100;\n}\n.form-material .form-default .form-control:focus ~ label {\n  color: #d6d6d6;\n}\n.form-material .form-default .form-control:focus ~ .form-bar:after, .form-material .form-default .form-control:focus ~ .form-bar:before {\n  background: #d6d6d6;\n}\n.form-material .form-default.form-static-label .float-label {\n  color: #d6d6d6;\n}\n.form-material .form-default.form-static-label .form-control {\n  border-bottom-color: #d6d6d6;\n}\n.form-material .material-group-default .material-addone i,\n.form-material .material-group-default .material-addone span {\n  color: #d6d6d6;\n}\n.form-material .form-danger .form-control:focus ~ label {\n  color: #ff5252;\n}\n.form-material .form-danger .form-control:focus ~ .form-bar:after, .form-material .form-danger .form-control:focus ~ .form-bar:before {\n  background: #ff5252;\n}\n.form-material .form-danger.form-static-label .float-label {\n  color: #ff5252;\n}\n.form-material .form-danger.form-static-label .form-control {\n  border-bottom-color: #ff5252;\n}\n.form-material .material-group-danger .material-addone i,\n.form-material .material-group-danger .material-addone span {\n  color: #ff5252;\n}\n.form-material .form-success .form-control:focus ~ label {\n  color: #11c15b;\n}\n.form-material .form-success .form-control:focus ~ .form-bar:after, .form-material .form-success .form-control:focus ~ .form-bar:before {\n  background: #11c15b;\n}\n.form-material .form-success.form-static-label .float-label {\n  color: #11c15b;\n}\n.form-material .form-success.form-static-label .form-control {\n  border-bottom-color: #11c15b;\n}\n.form-material .material-group-success .material-addone i,\n.form-material .material-group-success .material-addone span {\n  color: #11c15b;\n}\n.form-material .form-inverse .form-control:focus ~ label {\n  color: #37474f;\n}\n.form-material .form-inverse .form-control:focus ~ .form-bar:after, .form-material .form-inverse .form-control:focus ~ .form-bar:before {\n  background: #37474f;\n}\n.form-material .form-inverse.form-static-label .float-label {\n  color: #37474f;\n}\n.form-material .form-inverse.form-static-label .form-control {\n  border-bottom-color: #37474f;\n}\n.form-material .material-group-inverse .material-addone i,\n.form-material .material-group-inverse .material-addone span {\n  color: #37474f;\n}\n.form-material .form-info .form-control:focus ~ label {\n  color: #00bcd4;\n}\n.form-material .form-info .form-control:focus ~ .form-bar:after, .form-material .form-info .form-control:focus ~ .form-bar:before {\n  background: #00bcd4;\n}\n.form-material .form-info.form-static-label .float-label {\n  color: #00bcd4;\n}\n.form-material .form-info.form-static-label .form-control {\n  border-bottom-color: #00bcd4;\n}\n.form-material .material-group-info .material-addone i,\n.form-material .material-group-info .material-addone span {\n  color: #00bcd4;\n}\nselect.form-control, select.form-control:focus, select.form-control:hover {\n  border-top: none;\n  border-right: none;\n  border-left: none;\n  -webkit-box-shadow: none;\n          box-shadow: none;\n}\n\n\n", ""]);
 
 // exports
 
@@ -38131,676 +38636,2463 @@ var staticRenderFns = [
     var _vm = this
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
-    return _c("div", { staticClass: "main-body" }, [
-      _c("div", { staticClass: "page-wrapper" }, [
-        _c("div", { staticClass: "page-body" }, [
-          _c("div", { staticClass: "card" }, [
-            _c("div", { staticClass: "row align-items-center" }, [
-              _c("div", { staticClass: "col-md-5" }, [
-                _c("div", { staticClass: "card-header" }, [
-                  _c("h5", [_vm._v("Categorías")]),
+    return _c("div", { staticClass: "pcoded-content" }, [
+      _c("div", { staticClass: "page-header" }, [
+        _c("div", { staticClass: "page-block" }, [
+          _c("div", { staticClass: "row align-items-center" }, [
+            _c("div", { staticClass: "col-md-8" }),
+            _vm._v(" "),
+            _c("div", { staticClass: "col-md-4" }, [
+              _c("ul", { staticClass: "breadcrumb" }, [
+                _c("li", { staticClass: "breadcrumb-item" }, [
+                  _c("a", { attrs: { href: "./index.html" } }, [
+                    _c("i", { staticClass: "fa fa-home" })
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("li", { staticClass: "breadcrumb-item" }, [
+                  _c("a", { attrs: { href: "#!" } }, [_vm._v("Categoría")])
+                ])
+              ])
+            ])
+          ])
+        ])
+      ]),
+      _vm._v(" "),
+      _c("div", { staticClass: "pcoded-inner-content" }, [
+        _c("div", { staticClass: "main-body" }, [
+          _c("div", { staticClass: "page-wrapper" }, [
+            _c("div", { staticClass: "page-body" }, [
+              _c("div", { staticClass: "card" }, [
+                _c("div", { staticClass: "row align-items-center" }, [
+                  _c("div", { staticClass: "col-md-5" }, [
+                    _c("div", { staticClass: "card-header" }, [
+                      _c("h5", [_vm._v("Categorías")]),
+                      _vm._v(" "),
+                      _c("span", [_vm._v("Agregar, editar y desactivar.")])
+                    ])
+                  ]),
                   _vm._v(" "),
-                  _c("span", [_vm._v("Agregar, editar y desactivar.")])
+                  _c("div", { staticClass: "col-md-7" }, [
+                    _c("div", { staticClass: "botona" }, [
+                      _c(
+                        "button",
+                        {
+                          staticClass: "btn btn-outline-primary btn-sm",
+                          attrs: {
+                            type: "button",
+                            "data-toggle": "modal",
+                            "data-target": "#large-Modal"
+                          }
+                        },
+                        [
+                          _c("i", { staticClass: "icofont icofont-ui-add" }),
+                          _vm._v("Nuevo")
+                        ]
+                      )
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "card-block icon-btn" }, [
+                  _c("div", { staticClass: "dt-responsive table-responsive" }, [
+                    _c(
+                      "table",
+                      {
+                        staticClass:
+                          "table table-striped table-bordered nowrap",
+                        attrs: { id: "new-cons" }
+                      },
+                      [
+                        _c("thead", [
+                          _c("tr", [
+                            _c("th", [_vm._v("Id")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Nombre")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Descripción")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Estado")]),
+                            _vm._v(" "),
+                            _c("th", [_vm._v("Acciones")])
+                          ])
+                        ]),
+                        _vm._v(" "),
+                        _c("tbody", [
+                          _c("tr", [
+                            _c("td", [_vm._v("000001")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Nixon")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("System Architect")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("tr", [
+                            _c("td", [_vm._v("000002")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Winters")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Accountant")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("tr", [
+                            _c("td", [_vm._v("000002")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Winters")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Accountant")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("tr", [
+                            _c("td", [_vm._v("000002")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Winters")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Accountant")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("tr", [
+                            _c("td", [_vm._v("000002")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Winters")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Accountant")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("tr", [
+                            _c("td", [_vm._v("000002")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Winters")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Accountant")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("tr", [
+                            _c("td", [_vm._v("000002")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Winters")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Accountant")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("tr", [
+                            _c("td", [_vm._v("000002")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Winters")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Accountant")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("tr", [
+                            _c("td", [_vm._v("000002")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Winters")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Accountant")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("tr", [
+                            _c("td", [_vm._v("000002")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Winters")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Accountant")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("tr", [
+                            _c("td", [_vm._v("000002")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Winters")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Accountant")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ]),
+                          _vm._v(" "),
+                          _c("tr", [
+                            _c("td", [_vm._v("000002")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Winters")]),
+                            _vm._v(" "),
+                            _c("td", [_vm._v("Accountant")]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "label",
+                                { staticClass: "label label-inverse-success" },
+                                [_vm._v("Activo")]
+                              )
+                            ]),
+                            _vm._v(" "),
+                            _c("td", [
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
+                                },
+                                [_c("i", { staticClass: "ti-marker-alt" })]
+                              ),
+                              _vm._v(
+                                " \n                                              "
+                              ),
+                              _c(
+                                "button",
+                                {
+                                  staticClass:
+                                    "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
+                                },
+                                [_c("i", { staticClass: "fa fa-trash" })]
+                              )
+                            ])
+                          ])
+                        ])
+                      ]
+                    )
+                  ])
                 ])
               ]),
               _vm._v(" "),
-              _c("div", { staticClass: "col-md-7" }, [
-                _c("div", { staticClass: "botona" }, [
-                  _c(
-                    "button",
-                    {
-                      staticClass: "btn btn-outline-primary btn-sm",
-                      attrs: {
-                        type: "button",
-                        "data-toggle": "modal",
-                        "data-target": "#large-Modal"
-                      }
-                    },
-                    [
-                      _c("i", { staticClass: "icofont icofont-ui-add" }),
-                      _vm._v("Nuevo")
-                    ]
-                  )
-                ])
-              ])
-            ]),
-            _vm._v(" "),
-            _c("div", { staticClass: "card-block icon-btn" }, [
-              _c("div", { staticClass: "dt-responsive table-responsive" }, [
-                _c(
-                  "table",
-                  {
-                    staticClass: "table table-striped table-bordered nowrap",
-                    attrs: { id: "new-cons" }
-                  },
-                  [
-                    _c("thead", [
-                      _c("tr", [
-                        _c("th", [_vm._v("Id")]),
-                        _vm._v(" "),
-                        _c("th", [_vm._v("Nombre")]),
-                        _vm._v(" "),
-                        _c("th", [_vm._v("Descripción")]),
-                        _vm._v(" "),
-                        _c("th", [_vm._v("Estado")]),
-                        _vm._v(" "),
-                        _c("th", [_vm._v("Acciones")])
-                      ])
-                    ]),
-                    _vm._v(" "),
-                    _c("tbody", [
-                      _c("tr", [
-                        _c("td", [_vm._v("000001")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Nixon")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("System Architect")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("tr", [
-                        _c("td", [_vm._v("000002")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Winters")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Accountant")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("tr", [
-                        _c("td", [_vm._v("000002")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Winters")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Accountant")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("tr", [
-                        _c("td", [_vm._v("000002")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Winters")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Accountant")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("tr", [
-                        _c("td", [_vm._v("000002")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Winters")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Accountant")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("tr", [
-                        _c("td", [_vm._v("000002")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Winters")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Accountant")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("tr", [
-                        _c("td", [_vm._v("000002")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Winters")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Accountant")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("tr", [
-                        _c("td", [_vm._v("000002")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Winters")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Accountant")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("tr", [
-                        _c("td", [_vm._v("000002")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Winters")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Accountant")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("tr", [
-                        _c("td", [_vm._v("000002")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Winters")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Accountant")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("tr", [
-                        _c("td", [_vm._v("000002")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Winters")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Accountant")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("tr", [
-                        _c("td", [_vm._v("000002")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Winters")]),
-                        _vm._v(" "),
-                        _c("td", [_vm._v("Accountant")]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "label",
-                            { staticClass: "label label-inverse-success" },
-                            [_vm._v("Activo")]
-                          )
-                        ]),
-                        _vm._v(" "),
-                        _c("td", [
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-warning btn-outline-warning btn-iconr"
-                            },
-                            [_c("i", { staticClass: "ti-marker-alt" })]
-                          ),
-                          _vm._v(" \n                                      "),
-                          _c(
-                            "button",
-                            {
-                              staticClass:
-                                "btn waves-effect waves-dark btn-danger btn-outline-danger btn-iconr"
-                            },
-                            [_c("i", { staticClass: "fa fa-trash" })]
-                          )
-                        ])
-                      ])
-                    ])
-                  ]
-                )
-              ])
-            ])
-          ]),
-          _vm._v(" "),
-          _c(
-            "div",
-            {
-              staticClass: "modal fade",
-              attrs: { id: "large-Modal", tabindex: "-1", role: "dialog" }
-            },
-            [
               _c(
                 "div",
                 {
-                  staticClass: "modal-dialog modal-md",
-                  attrs: { role: "document" }
+                  staticClass: "modal fade",
+                  attrs: { id: "large-Modal", tabindex: "-1", role: "dialog" }
                 },
                 [
-                  _c("div", { staticClass: "card" }, [
-                    _c("div", { staticClass: "card-header" }, [
-                      _c("h5", [_vm._v("Nueva Categoría")])
-                    ]),
-                    _vm._v(" "),
-                    _c("div", { staticClass: "card-block" }, [
-                      _c("form", { staticClass: "form-material card-block" }),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "row" }, [
-                        _c("div", { staticClass: "col-sm-12" }, [
-                          _c("div", { staticClass: "material-group" }, [
-                            _c("div", { staticClass: "material-addone" }, [
-                              _c("i", {
-                                staticClass: "icofont icofont-align-left"
-                              })
+                  _c(
+                    "div",
+                    {
+                      staticClass: "modal-dialog modal-md",
+                      attrs: { role: "document" }
+                    },
+                    [
+                      _c("div", { staticClass: "product-edit" }, [
+                        _c(
+                          "ul",
+                          {
+                            staticClass: "nav nav-tabs nav-justified md-tabs ",
+                            attrs: { role: "tablist" }
+                          },
+                          [
+                            _c("li", { staticClass: "nav-item" }, [
+                              _c(
+                                "a",
+                                {
+                                  staticClass: "nav-link active",
+                                  attrs: {
+                                    "data-toggle": "tab",
+                                    href: "#home7",
+                                    role: "tab"
+                                  }
+                                },
+                                [
+                                  _c("div", { staticClass: "f-20" }, [
+                                    _c("i", {
+                                      staticClass: "icofont icofont-edit"
+                                    })
+                                  ]),
+                                  _vm._v(
+                                    "\n                                                                                Product Edit"
+                                  )
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "slide" })
                             ]),
                             _vm._v(" "),
-                            _c(
-                              "div",
-                              { staticClass: "form-group form-primary" },
-                              [
-                                _c("input", {
-                                  staticClass: "form-control",
+                            _c("li", { staticClass: "nav-item" }, [
+                              _c(
+                                "a",
+                                {
+                                  staticClass: "nav-link",
                                   attrs: {
-                                    type: "text",
-                                    name: "footer-email",
-                                    required: ""
+                                    "data-toggle": "tab",
+                                    href: "#profile7",
+                                    role: "tab"
                                   }
-                                }),
-                                _vm._v(" "),
-                                _c("span", { staticClass: "form-bar" }),
-                                _vm._v(" "),
-                                _c("label", { staticClass: "float-label" }, [
-                                  _vm._v("Nombre de Categoría")
+                                },
+                                [
+                                  _c("div", { staticClass: "f-20" }, [
+                                    _c("i", {
+                                      staticClass:
+                                        "icofont icofont-document-search"
+                                    })
+                                  ]),
+                                  _vm._v(
+                                    "\n                                                                                    SEO Metadata"
+                                  )
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "slide" })
+                            ]),
+                            _vm._v(" "),
+                            _c("li", { staticClass: "nav-item" }, [
+                              _c(
+                                "a",
+                                {
+                                  staticClass: "nav-link",
+                                  attrs: {
+                                    "data-toggle": "tab",
+                                    href: "#messages7",
+                                    role: "tab"
+                                  }
+                                },
+                                [
+                                  _c("div", { staticClass: "f-20" }, [
+                                    _c("i", {
+                                      staticClass: "icofont icofont-ui-image"
+                                    })
+                                  ]),
+                                  _vm._v(
+                                    "\n                                                                                        Pictures"
+                                  )
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "slide" })
+                            ]),
+                            _vm._v(" "),
+                            _c("li", { staticClass: "nav-item" }, [
+                              _c(
+                                "a",
+                                {
+                                  staticClass: "nav-link",
+                                  attrs: {
+                                    "data-toggle": "tab",
+                                    href: "#messages8",
+                                    role: "tab"
+                                  }
+                                },
+                                [
+                                  _c("div", { staticClass: "f-20" }, [
+                                    _c("i", {
+                                      staticClass: "icofont icofont-comment"
+                                    })
+                                  ]),
+                                  _vm._v(
+                                    "\n                                                                                            Reviews"
+                                  )
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "slide" })
+                            ])
+                          ]
+                        ),
+                        _vm._v(" "),
+                        _c("div", { staticClass: "tab-content" }, [
+                          _c(
+                            "div",
+                            {
+                              staticClass: "tab-pane active",
+                              attrs: { id: "home7", role: "tabpanel" }
+                            },
+                            [
+                              _c("form", {
+                                staticClass: "form-material card-block"
+                              }),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "row" }, [
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c("div", { staticClass: "material-group" }, [
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-addone" },
+                                      [
+                                        _c("i", {
+                                          staticClass: "icofont icofont-ui-user"
+                                        })
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "form-group form-primary"
+                                      },
+                                      [
+                                        _c("input", {
+                                          staticClass: "form-control",
+                                          attrs: {
+                                            type: "text",
+                                            name: "footer-email",
+                                            required: ""
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("span", { staticClass: "form-bar" }),
+                                        _vm._v(" "),
+                                        _c(
+                                          "label",
+                                          { staticClass: "float-label" },
+                                          [_vm._v("First Name")]
+                                        )
+                                      ]
+                                    )
+                                  ])
                                 ]),
                                 _vm._v(" "),
-                                _c("span", { staticClass: "form-bar" })
-                              ]
-                            )
-                          ])
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "row" }),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "row" }, [
-                        _c("div", { staticClass: "col-sm-12" }, [
-                          _c("div", { staticClass: "material-group" }, [
-                            _c("div", { staticClass: "material-addone" }, [
-                              _c("i", {
-                                staticClass: "icofont icofont-copy-alt"
-                              })
-                            ]),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              { staticClass: "form-group form-primary" },
-                              [
-                                _c("input", {
-                                  staticClass: "form-control",
-                                  attrs: {
-                                    type: "text",
-                                    name: "footer-email",
-                                    required: ""
-                                  }
-                                }),
-                                _vm._v(" "),
-                                _c("span", { staticClass: "form-bar" }),
-                                _vm._v(" "),
-                                _c("label", { staticClass: "float-label" }, [
-                                  _vm._v("Descripción")
-                                ])
-                              ]
-                            )
-                          ])
-                        ])
-                      ]),
-                      _vm._v(" "),
-                      _c("div", { staticClass: "row" }, [
-                        _c("div", { staticClass: "col-sm-12" }, [
-                          _c("div", { staticClass: "material-group" }, [
-                            _c("div", { staticClass: "material-addone" }, [
-                              _c("i", {
-                                staticClass: "fa fa-exclamation-circle"
-                              })
-                            ]),
-                            _vm._v(" "),
-                            _c(
-                              "div",
-                              { staticClass: "form-group form-primary" },
-                              [
-                                _c(
-                                  "select",
-                                  {
-                                    staticClass:
-                                      "form-control js-example-data-array",
-                                    attrs: { name: "select", required: "" }
-                                  },
-                                  [
-                                    _c("option", { attrs: { value: "" } }),
-                                    _vm._v(
-                                      "Estado\n                                            "
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c("div", { staticClass: "material-group" }, [
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-addone" },
+                                      [
+                                        _c("i", {
+                                          staticClass:
+                                            "icofont icofont-man-in-glasses"
+                                        })
+                                      ]
                                     ),
-                                    _c("option", { attrs: { value: "1" } }),
-                                    _vm._v(
-                                      "Activo\n                                            "
-                                    ),
-                                    _c("option", { attrs: { value: "0" } }),
-                                    _vm._v(
-                                      "Inactivo\n                                        "
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "form-group form-primary"
+                                      },
+                                      [
+                                        _c("input", {
+                                          staticClass: "form-control",
+                                          attrs: {
+                                            type: "text",
+                                            name: "footer-email",
+                                            required: ""
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("span", { staticClass: "form-bar" }),
+                                        _vm._v(" "),
+                                        _c(
+                                          "label",
+                                          { staticClass: "float-label" },
+                                          [_vm._v("Last Name")]
+                                        )
+                                      ]
                                     )
-                                  ]
-                                ),
+                                  ])
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "row" }, [
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c("div", { staticClass: "material-group" }, [
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-addone" },
+                                      [
+                                        _c("i", {
+                                          staticClass: "icofont icofont-ui-note"
+                                        })
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "form-group form-primary"
+                                      },
+                                      [
+                                        _c("input", {
+                                          staticClass: "form-control",
+                                          attrs: {
+                                            type: "text",
+                                            name: "footer-email",
+                                            required: ""
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("span", { staticClass: "form-bar" }),
+                                        _vm._v(" "),
+                                        _c(
+                                          "label",
+                                          { staticClass: "float-label" },
+                                          [_vm._v("Tax")]
+                                        )
+                                      ]
+                                    )
+                                  ])
+                                ]),
                                 _vm._v(" "),
-                                _c("span", { staticClass: "form-bar" })
-                              ]
-                            )
-                          ])
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c("div", { staticClass: "material-group" }, [
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-addone" },
+                                      [
+                                        _c("i", {
+                                          staticClass:
+                                            "icofont icofont-cur-dollar"
+                                        })
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "form-group form-primary"
+                                      },
+                                      [
+                                        _c("input", {
+                                          staticClass: "form-control",
+                                          attrs: {
+                                            type: "text",
+                                            name: "footer-email",
+                                            required: ""
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("span", { staticClass: "form-bar" }),
+                                        _vm._v(" "),
+                                        _c(
+                                          "label",
+                                          { staticClass: "float-label" },
+                                          [_vm._v("Price")]
+                                        )
+                                      ]
+                                    )
+                                  ])
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "row" }, [
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c("div", { staticClass: "material-group" }, [
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-addone" },
+                                      [
+                                        _c("i", {
+                                          staticClass:
+                                            "icofont icofont-numbered"
+                                        })
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "form-group form-primary"
+                                      },
+                                      [
+                                        _c("input", {
+                                          staticClass: "form-control",
+                                          attrs: {
+                                            type: "text",
+                                            name: "footer-email",
+                                            required: ""
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("span", { staticClass: "form-bar" }),
+                                        _vm._v(" "),
+                                        _c(
+                                          "label",
+                                          { staticClass: "float-label" },
+                                          [_vm._v("Quantity")]
+                                        )
+                                      ]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c("div", { staticClass: "material-group" }, [
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-addone" },
+                                      [
+                                        _c("i", {
+                                          staticClass:
+                                            "icofont icofont-align-left"
+                                        })
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "form-group form-primary"
+                                      },
+                                      [
+                                        _c("input", {
+                                          staticClass: "form-control",
+                                          attrs: {
+                                            type: "text",
+                                            name: "footer-email",
+                                            required: ""
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("span", { staticClass: "form-bar" }),
+                                        _vm._v(" "),
+                                        _c(
+                                          "label",
+                                          { staticClass: "float-label" },
+                                          [_vm._v("Categories")]
+                                        )
+                                      ]
+                                    )
+                                  ])
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "row" }, [
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c("div", { staticClass: "material-group" }, [
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-addone" },
+                                      [
+                                        _c("i", {
+                                          staticClass:
+                                            "icofont icofont-copy-alt"
+                                        })
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "form-group form-primary"
+                                      },
+                                      [
+                                        _c("input", {
+                                          staticClass: "form-control",
+                                          attrs: {
+                                            type: "text",
+                                            name: "footer-email",
+                                            required: ""
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("span", { staticClass: "form-bar" }),
+                                        _vm._v(" "),
+                                        _c(
+                                          "label",
+                                          { staticClass: "float-label" },
+                                          [_vm._v("Product Description")]
+                                        )
+                                      ]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c(
+                                    "div",
+                                    { staticClass: "form-group form-primary" },
+                                    [
+                                      _c(
+                                        "select",
+                                        {
+                                          staticClass: "form-control",
+                                          attrs: { name: "select" }
+                                        },
+                                        [
+                                          _c("option", {
+                                            attrs: { value: "opt1" }
+                                          }),
+                                          _vm._v(
+                                            "Select One Value Only\n                                                                                                                "
+                                          ),
+                                          _c("option", {
+                                            attrs: { value: "opt2" }
+                                          }),
+                                          _vm._v(
+                                            "2\n                                                                                                                "
+                                          ),
+                                          _c("option", {
+                                            attrs: { value: "opt3" }
+                                          }),
+                                          _vm._v(
+                                            "3\n                                                                                                                "
+                                          ),
+                                          _c("option", {
+                                            attrs: { value: "opt4" }
+                                          }),
+                                          _vm._v(
+                                            "4\n                                                                                                                "
+                                          ),
+                                          _c("option", {
+                                            attrs: { value: "opt5" }
+                                          }),
+                                          _vm._v(
+                                            "5\n                                                                                                                "
+                                          ),
+                                          _c("option", {
+                                            attrs: { value: "opt6" }
+                                          }),
+                                          _vm._v(
+                                            "6\n                                                                                                            "
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c("span", { staticClass: "form-bar" })
+                                    ]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "row" }, [
+                                _c("div", { staticClass: "col-sm-12" }, [
+                                  _c(
+                                    "div",
+                                    { staticClass: "text-center m-t-20" },
+                                    [
+                                      _c(
+                                        "button",
+                                        {
+                                          staticClass:
+                                            "btn btn-primary waves-effect waves-light m-r-10",
+                                          attrs: { type: "button" }
+                                        },
+                                        [
+                                          _vm._v(
+                                            "Save\n                                                                                                            "
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "button",
+                                        {
+                                          staticClass:
+                                            "btn btn-warning waves-effect waves-light",
+                                          attrs: { type: "button" }
+                                        },
+                                        [
+                                          _vm._v(
+                                            "Discard\n                                                                                                            "
+                                          )
+                                        ]
+                                      )
+                                    ]
+                                  )
+                                ])
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass: "tab-pane",
+                              attrs: { id: "profile7", role: "tabpanel" }
+                            },
+                            [
+                              _c("form", {
+                                staticClass: "form-material card-block"
+                              }),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "row" }, [
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c("div", { staticClass: "material-group" }, [
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-addone" },
+                                      [
+                                        _c("i", {
+                                          staticClass:
+                                            "icofont icofont-all-caps"
+                                        })
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "form-group form-primary"
+                                      },
+                                      [
+                                        _c("input", {
+                                          staticClass: "form-control",
+                                          attrs: {
+                                            type: "text",
+                                            name: "footer-email",
+                                            required: ""
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("span", { staticClass: "form-bar" }),
+                                        _vm._v(" "),
+                                        _c(
+                                          "label",
+                                          { staticClass: "float-label" },
+                                          [_vm._v("Title")]
+                                        )
+                                      ]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c("div", { staticClass: "material-group" }, [
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-addone" },
+                                      [
+                                        _c("i", {
+                                          staticClass:
+                                            "icofont icofont-underline"
+                                        })
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "form-group form-primary"
+                                      },
+                                      [
+                                        _c("input", {
+                                          staticClass: "form-control",
+                                          attrs: {
+                                            type: "text",
+                                            name: "footer-email",
+                                            required: ""
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("span", { staticClass: "form-bar" }),
+                                        _vm._v(" "),
+                                        _c(
+                                          "label",
+                                          { staticClass: "float-label" },
+                                          [_vm._v("Label Name")]
+                                        )
+                                      ]
+                                    )
+                                  ])
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "row" }, [
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c("div", { staticClass: "material-group" }, [
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-addone" },
+                                      [
+                                        _c("i", {
+                                          staticClass:
+                                            "icofont icofont-ui-keyboard"
+                                        })
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "form-group form-primary"
+                                      },
+                                      [
+                                        _c("input", {
+                                          staticClass: "form-control",
+                                          attrs: {
+                                            type: "text",
+                                            name: "footer-email",
+                                            required: ""
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("span", { staticClass: "form-bar" }),
+                                        _vm._v(" "),
+                                        _c(
+                                          "label",
+                                          { staticClass: "float-label" },
+                                          [_vm._v("Keyword")]
+                                        )
+                                      ]
+                                    )
+                                  ])
+                                ]),
+                                _vm._v(" "),
+                                _c("div", { staticClass: "col-sm-6" }, [
+                                  _c("div", { staticClass: "material-group" }, [
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-addone" },
+                                      [
+                                        _c("i", {
+                                          staticClass:
+                                            "icofont icofont-copy-alt"
+                                        })
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass: "form-group form-primary"
+                                      },
+                                      [
+                                        _c("input", {
+                                          staticClass: "form-control",
+                                          attrs: {
+                                            type: "text",
+                                            name: "footer-email",
+                                            required: ""
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("span", { staticClass: "form-bar" }),
+                                        _vm._v(" "),
+                                        _c(
+                                          "label",
+                                          { staticClass: "float-label" },
+                                          [_vm._v("Description")]
+                                        )
+                                      ]
+                                    )
+                                  ])
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "row" }, [
+                                _c("div", { staticClass: "col-sm-12" }, [
+                                  _c(
+                                    "div",
+                                    { staticClass: "text-center m-t-20" },
+                                    [
+                                      _c(
+                                        "button",
+                                        {
+                                          staticClass:
+                                            "btn btn-primary waves-effect waves-light m-r-10",
+                                          attrs: { type: "button" }
+                                        },
+                                        [_vm._v("Save")]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "button",
+                                        {
+                                          staticClass:
+                                            "btn btn-warning waves-effect waves-light",
+                                          attrs: { type: "button" }
+                                        },
+                                        [_vm._v("Discard")]
+                                      )
+                                    ]
+                                  )
+                                ])
+                              ])
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass: "tab-pane",
+                              attrs: { id: "messages7", role: "tabpanel" }
+                            },
+                            [
+                              _c(
+                                "div",
+                                { staticClass: "form-material card-block" },
+                                [
+                                  _c(
+                                    "div",
+                                    { staticClass: "row p-t-10 p-b-10" },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "col-lg-3 col-md-6 col-sm-12"
+                                        },
+                                        [
+                                          _c(
+                                            "a",
+                                            {
+                                              attrs: {
+                                                href: "./product-edit.html"
+                                              }
+                                            },
+                                            [
+                                              _c("img", {
+                                                staticClass:
+                                                  "img-fluid width-100 m-b-20",
+                                                attrs: {
+                                                  src: __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module '../files/assets/images/product-edit/product-edit1.jpg'"); e.code = 'MODULE_NOT_FOUND'; throw e; }())),
+                                                  alt: "img-edit"
+                                                }
+                                              })
+                                            ]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "col-lg-9 col-md-6 col-sm-12"
+                                        },
+                                        [
+                                          _c("div", { staticClass: "row" }, [
+                                            _c(
+                                              "div",
+                                              { staticClass: "col-sm-12" },
+                                              [
+                                                _c(
+                                                  "div",
+                                                  {
+                                                    staticClass:
+                                                      "material-group"
+                                                  },
+                                                  [
+                                                    _c(
+                                                      "div",
+                                                      {
+                                                        staticClass:
+                                                          "material-addone"
+                                                      },
+                                                      [
+                                                        _c("i", {
+                                                          staticClass:
+                                                            "icofont icofont-all-caps"
+                                                        })
+                                                      ]
+                                                    ),
+                                                    _vm._v(" "),
+                                                    _c(
+                                                      "div",
+                                                      {
+                                                        staticClass:
+                                                          "form-group form-primary"
+                                                      },
+                                                      [
+                                                        _c("input", {
+                                                          staticClass:
+                                                            "form-control",
+                                                          attrs: {
+                                                            type: "text",
+                                                            name:
+                                                              "footer-email",
+                                                            required: ""
+                                                          }
+                                                        }),
+                                                        _vm._v(" "),
+                                                        _c("span", {
+                                                          staticClass:
+                                                            "form-bar"
+                                                        }),
+                                                        _vm._v(" "),
+                                                        _c(
+                                                          "label",
+                                                          {
+                                                            staticClass:
+                                                              "float-label"
+                                                          },
+                                                          [_vm._v("Label Name")]
+                                                        )
+                                                      ]
+                                                    )
+                                                  ]
+                                                ),
+                                                _vm._v(" "),
+                                                _c(
+                                                  "div",
+                                                  {
+                                                    staticClass:
+                                                      "col-xs-6 edit-left"
+                                                  },
+                                                  [
+                                                    _c(
+                                                      "div",
+                                                      {
+                                                        staticClass:
+                                                          "form-radio"
+                                                      },
+                                                      [
+                                                        _c("form"),
+                                                        _vm._v(" "),
+                                                        _c(
+                                                          "div",
+                                                          {
+                                                            staticClass:
+                                                              "radio radiofill"
+                                                          },
+                                                          [
+                                                            _c("label", [
+                                                              _c("input", {
+                                                                attrs: {
+                                                                  type: "radio",
+                                                                  name: "radio"
+                                                                }
+                                                              }),
+                                                              _c("i", {
+                                                                staticClass:
+                                                                  "helper"
+                                                              }),
+                                                              _vm._v(
+                                                                "Largest Image\n                                                                                                                                "
+                                                              )
+                                                            ])
+                                                          ]
+                                                        ),
+                                                        _vm._v(" "),
+                                                        _c(
+                                                          "div",
+                                                          {
+                                                            staticClass:
+                                                              "radio radiofill"
+                                                          },
+                                                          [
+                                                            _c("label", [
+                                                              _c("input", {
+                                                                attrs: {
+                                                                  type: "radio",
+                                                                  name: "radio"
+                                                                }
+                                                              }),
+                                                              _c("i", {
+                                                                staticClass:
+                                                                  "helper"
+                                                              }),
+                                                              _vm._v(
+                                                                "Medium Image\n                                                                                                                                "
+                                                              )
+                                                            ])
+                                                          ]
+                                                        ),
+                                                        _vm._v(" "),
+                                                        _c(
+                                                          "div",
+                                                          {
+                                                            staticClass:
+                                                              "radio radiofill"
+                                                          },
+                                                          [
+                                                            _c("label", [
+                                                              _c("input", {
+                                                                attrs: {
+                                                                  type: "radio",
+                                                                  name: "radio"
+                                                                }
+                                                              }),
+                                                              _c("i", {
+                                                                staticClass:
+                                                                  "helper"
+                                                              }),
+                                                              _vm._v(
+                                                                "Small Image\n                                                                                                                                "
+                                                              )
+                                                            ])
+                                                          ]
+                                                        )
+                                                      ]
+                                                    )
+                                                  ]
+                                                ),
+                                                _vm._v(" "),
+                                                _c(
+                                                  "div",
+                                                  {
+                                                    staticClass:
+                                                      "col-xs-6 edit-right text-right"
+                                                  },
+                                                  [
+                                                    _c(
+                                                      "button",
+                                                      {
+                                                        staticClass:
+                                                          "btn btn-danger waves-effect waves-light",
+                                                        attrs: {
+                                                          type: "button"
+                                                        }
+                                                      },
+                                                      [
+                                                        _vm._v(
+                                                          "Remove\n                                                                                                                        "
+                                                        ),
+                                                        _c("i", {
+                                                          staticClass:
+                                                            "icofont icofont-close-circled f-16 m-l-5"
+                                                        })
+                                                      ]
+                                                    )
+                                                  ]
+                                                )
+                                              ]
+                                            )
+                                          ])
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c("hr"),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    { staticClass: "row p-t-10 p-b-10" },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "col-lg-3 col-md-6 col-sm-12"
+                                        },
+                                        [
+                                          _c(
+                                            "a",
+                                            {
+                                              attrs: {
+                                                href: "./product-edit.html"
+                                              }
+                                            },
+                                            [
+                                              _c("img", {
+                                                staticClass:
+                                                  "img-fluid width-100 m-b-20",
+                                                attrs: {
+                                                  src: __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module '../files/assets/images/product-edit/product-edit2.jpg'"); e.code = 'MODULE_NOT_FOUND'; throw e; }())),
+                                                  alt: "img-edit"
+                                                }
+                                              })
+                                            ]
+                                          )
+                                        ]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "col-lg-9 col-md-6 col-sm-12"
+                                        },
+                                        [
+                                          _c("div", { staticClass: "row" }, [
+                                            _c(
+                                              "div",
+                                              { staticClass: "col-sm-12" },
+                                              [
+                                                _c(
+                                                  "div",
+                                                  {
+                                                    staticClass:
+                                                      "material-group"
+                                                  },
+                                                  [
+                                                    _c(
+                                                      "div",
+                                                      {
+                                                        staticClass:
+                                                          "material-addone"
+                                                      },
+                                                      [
+                                                        _c("i", {
+                                                          staticClass:
+                                                            "icofont icofont-all-caps"
+                                                        })
+                                                      ]
+                                                    ),
+                                                    _vm._v(" "),
+                                                    _c(
+                                                      "div",
+                                                      {
+                                                        staticClass:
+                                                          "form-group form-primary"
+                                                      },
+                                                      [
+                                                        _c("input", {
+                                                          staticClass:
+                                                            "form-control",
+                                                          attrs: {
+                                                            type: "text",
+                                                            name:
+                                                              "footer-email",
+                                                            required: ""
+                                                          }
+                                                        }),
+                                                        _vm._v(" "),
+                                                        _c("span", {
+                                                          staticClass:
+                                                            "form-bar"
+                                                        }),
+                                                        _vm._v(" "),
+                                                        _c(
+                                                          "label",
+                                                          {
+                                                            staticClass:
+                                                              "float-label"
+                                                          },
+                                                          [_vm._v("Label Name")]
+                                                        )
+                                                      ]
+                                                    )
+                                                  ]
+                                                ),
+                                                _vm._v(" "),
+                                                _c(
+                                                  "div",
+                                                  {
+                                                    staticClass:
+                                                      "col-xs-6 edit-left"
+                                                  },
+                                                  [
+                                                    _c(
+                                                      "div",
+                                                      {
+                                                        staticClass:
+                                                          "form-radio"
+                                                      },
+                                                      [
+                                                        _c("form"),
+                                                        _vm._v(" "),
+                                                        _c(
+                                                          "div",
+                                                          {
+                                                            staticClass:
+                                                              "radio radiofill"
+                                                          },
+                                                          [
+                                                            _c("label", [
+                                                              _c("input", {
+                                                                attrs: {
+                                                                  type: "radio",
+                                                                  name: "radio"
+                                                                }
+                                                              }),
+                                                              _c("i", {
+                                                                staticClass:
+                                                                  "helper"
+                                                              }),
+                                                              _vm._v(
+                                                                "Largest Image\n                                                                                                                                "
+                                                              )
+                                                            ])
+                                                          ]
+                                                        ),
+                                                        _vm._v(" "),
+                                                        _c(
+                                                          "div",
+                                                          {
+                                                            staticClass:
+                                                              "radio radiofill"
+                                                          },
+                                                          [
+                                                            _c("label", [
+                                                              _c("input", {
+                                                                attrs: {
+                                                                  type: "radio",
+                                                                  name: "radio"
+                                                                }
+                                                              }),
+                                                              _c("i", {
+                                                                staticClass:
+                                                                  "helper"
+                                                              }),
+                                                              _vm._v(
+                                                                "Medium Image\n                                                                                                                                "
+                                                              )
+                                                            ])
+                                                          ]
+                                                        ),
+                                                        _vm._v(" "),
+                                                        _c(
+                                                          "div",
+                                                          {
+                                                            staticClass:
+                                                              "radio radiofill"
+                                                          },
+                                                          [
+                                                            _c("label", [
+                                                              _c("input", {
+                                                                attrs: {
+                                                                  type: "radio",
+                                                                  name: "radio"
+                                                                }
+                                                              }),
+                                                              _c("i", {
+                                                                staticClass:
+                                                                  "helper"
+                                                              }),
+                                                              _vm._v(
+                                                                "Small Image\n                                                                                                                                "
+                                                              )
+                                                            ])
+                                                          ]
+                                                        )
+                                                      ]
+                                                    )
+                                                  ]
+                                                ),
+                                                _vm._v(" "),
+                                                _c(
+                                                  "div",
+                                                  {
+                                                    staticClass:
+                                                      "col-xs-6 edit-right text-right"
+                                                  },
+                                                  [
+                                                    _c(
+                                                      "button",
+                                                      {
+                                                        staticClass:
+                                                          "btn btn-danger waves-effect waves-light",
+                                                        attrs: {
+                                                          type: "button"
+                                                        }
+                                                      },
+                                                      [
+                                                        _vm._v(
+                                                          "Remove\n                                                                                                                        "
+                                                        ),
+                                                        _c("i", {
+                                                          staticClass:
+                                                            "icofont icofont-close-circled f-16 m-l-5"
+                                                        })
+                                                      ]
+                                                    )
+                                                  ]
+                                                )
+                                              ]
+                                            )
+                                          ])
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c("hr"),
+                                  _vm._v(" "),
+                                  _c("div", { staticClass: "row p-t-10" }, [
+                                    _c("div", {
+                                      staticClass: "col-lg-3 col-md-6 col-sm-12"
+                                    }),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "col-lg-9 col-md-6 col-sm-12"
+                                      },
+                                      [
+                                        _c("div", { staticClass: "row" }, [
+                                          _c(
+                                            "div",
+                                            { staticClass: "col-sm-12" },
+                                            [
+                                              _c(
+                                                "div",
+                                                {
+                                                  staticClass: "material-group"
+                                                },
+                                                [
+                                                  _c(
+                                                    "div",
+                                                    {
+                                                      staticClass:
+                                                        "material-addone"
+                                                    },
+                                                    [
+                                                      _c("i", {
+                                                        staticClass:
+                                                          "icofont icofont-all-caps"
+                                                      })
+                                                    ]
+                                                  ),
+                                                  _vm._v(" "),
+                                                  _c(
+                                                    "div",
+                                                    {
+                                                      staticClass:
+                                                        "form-group form-primary"
+                                                    },
+                                                    [
+                                                      _c("input", {
+                                                        staticClass:
+                                                          "form-control",
+                                                        attrs: {
+                                                          type: "text",
+                                                          name: "footer-email",
+                                                          required: ""
+                                                        }
+                                                      }),
+                                                      _vm._v(" "),
+                                                      _c("span", {
+                                                        staticClass: "form-bar"
+                                                      }),
+                                                      _vm._v(" "),
+                                                      _c(
+                                                        "label",
+                                                        {
+                                                          staticClass:
+                                                            "float-label"
+                                                        },
+                                                        [_vm._v("Label Name")]
+                                                      )
+                                                    ]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "div",
+                                                {
+                                                  staticClass:
+                                                    "col-xs-6 edit-left"
+                                                },
+                                                [
+                                                  _c(
+                                                    "div",
+                                                    {
+                                                      staticClass: "form-radio"
+                                                    },
+                                                    [
+                                                      _c("form"),
+                                                      _vm._v(" "),
+                                                      _c(
+                                                        "div",
+                                                        {
+                                                          staticClass:
+                                                            "radio radiofill"
+                                                        },
+                                                        [
+                                                          _c("label", [
+                                                            _c("input", {
+                                                              attrs: {
+                                                                type: "radio",
+                                                                name: "radio"
+                                                              }
+                                                            }),
+                                                            _c("i", {
+                                                              staticClass:
+                                                                "helper"
+                                                            }),
+                                                            _vm._v(
+                                                              "Largest Image\n                                                                                                                                "
+                                                            )
+                                                          ])
+                                                        ]
+                                                      ),
+                                                      _vm._v(" "),
+                                                      _c(
+                                                        "div",
+                                                        {
+                                                          staticClass:
+                                                            "radio radiofill"
+                                                        },
+                                                        [
+                                                          _c("label", [
+                                                            _c("input", {
+                                                              attrs: {
+                                                                type: "radio",
+                                                                name: "radio"
+                                                              }
+                                                            }),
+                                                            _c("i", {
+                                                              staticClass:
+                                                                "helper"
+                                                            }),
+                                                            _vm._v(
+                                                              "Medium Image\n                                                                                                                                "
+                                                            )
+                                                          ])
+                                                        ]
+                                                      ),
+                                                      _vm._v(" "),
+                                                      _c(
+                                                        "div",
+                                                        {
+                                                          staticClass:
+                                                            "radio radiofill"
+                                                        },
+                                                        [
+                                                          _c("label", [
+                                                            _c("input", {
+                                                              attrs: {
+                                                                type: "radio",
+                                                                name: "radio"
+                                                              }
+                                                            }),
+                                                            _c("i", {
+                                                              staticClass:
+                                                                "helper"
+                                                            }),
+                                                            _vm._v(
+                                                              "Small Image\n                                                                                                                                "
+                                                            )
+                                                          ])
+                                                        ]
+                                                      )
+                                                    ]
+                                                  )
+                                                ]
+                                              ),
+                                              _vm._v(" "),
+                                              _c(
+                                                "div",
+                                                {
+                                                  staticClass:
+                                                    "col-xs-6 edit-right text-right"
+                                                },
+                                                [
+                                                  _c(
+                                                    "button",
+                                                    {
+                                                      staticClass:
+                                                        "btn btn-danger waves-effect waves-light",
+                                                      attrs: { type: "button" }
+                                                    },
+                                                    [
+                                                      _vm._v(
+                                                        "Remove\n                                                                                                                        "
+                                                      ),
+                                                      _c("i", {
+                                                        staticClass:
+                                                          "icofont icofont-close-circled f-16 m-l-5"
+                                                      })
+                                                    ]
+                                                  )
+                                                ]
+                                              )
+                                            ]
+                                          )
+                                        ])
+                                      ]
+                                    )
+                                  ]),
+                                  _vm._v(" "),
+                                  _c("hr")
+                                ]
+                              )
+                            ]
+                          ),
+                          _vm._v(" "),
+                          _c(
+                            "div",
+                            {
+                              staticClass: "tab-pane",
+                              attrs: { id: "messages8", role: "tabpanel" }
+                            },
+                            [
+                              _c("div", { staticClass: "container" }, [
+                                _c(
+                                  "div",
+                                  { staticClass: "form-material card-block" },
+                                  [
+                                    _c(
+                                      "div",
+                                      { staticClass: "text-muted f-w-400" },
+                                      [
+                                        _vm._v(
+                                          "\n                                                                                                        No reviews yet.\n                                                                                                    "
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c("div", { staticClass: "m-t-10" }, [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "txt-primary f-18 f-w-600"
+                                        },
+                                        [_vm._v("Your Rating")]
+                                      ),
+                                      _vm._v(" "),
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "stars stars-example-css detail-stars"
+                                        },
+                                        [
+                                          _c(
+                                            "select",
+                                            {
+                                              staticClass: "rating-star",
+                                              attrs: {
+                                                id: "product-view",
+                                                name: "rating",
+                                                autocomplete: "off"
+                                              }
+                                            },
+                                            [
+                                              _c("option", {
+                                                attrs: { value: "1" }
+                                              }),
+                                              _vm._v(
+                                                "1\n                                                                                                                "
+                                              ),
+                                              _c("option", {
+                                                attrs: { value: "2" }
+                                              }),
+                                              _vm._v(
+                                                "2\n                                                                                                                "
+                                              ),
+                                              _c("option", {
+                                                attrs: { value: "3" }
+                                              }),
+                                              _vm._v(
+                                                "3\n                                                                                                                "
+                                              ),
+                                              _c("option", {
+                                                attrs: { value: "4" }
+                                              }),
+                                              _vm._v(
+                                                "4\n                                                                                                                "
+                                              ),
+                                              _c("option", {
+                                                attrs: { value: "5" }
+                                              }),
+                                              _vm._v(
+                                                "5\n                                                                                                            "
+                                              )
+                                            ]
+                                          )
+                                        ]
+                                      )
+                                    ]),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-group" },
+                                      [
+                                        _c(
+                                          "div",
+                                          { staticClass: "material-addone" },
+                                          [
+                                            _c("i", {
+                                              staticClass:
+                                                "icofont icofont-underline"
+                                            })
+                                          ]
+                                        ),
+                                        _vm._v(" "),
+                                        _c(
+                                          "div",
+                                          {
+                                            staticClass:
+                                              "form-group form-primary"
+                                          },
+                                          [
+                                            _c("input", {
+                                              staticClass: "form-control",
+                                              attrs: {
+                                                type: "text",
+                                                name: "footer-email",
+                                                required: ""
+                                              }
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", {
+                                              staticClass: "form-bar"
+                                            }),
+                                            _vm._v(" "),
+                                            _c(
+                                              "label",
+                                              { staticClass: "float-label" },
+                                              [_vm._v("User Name")]
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-group" },
+                                      [
+                                        _c(
+                                          "div",
+                                          { staticClass: "material-addone" },
+                                          [
+                                            _c("i", {
+                                              staticClass:
+                                                "icofont icofont-man-in-glasses"
+                                            })
+                                          ]
+                                        ),
+                                        _vm._v(" "),
+                                        _c(
+                                          "div",
+                                          {
+                                            staticClass:
+                                              "form-group form-primary"
+                                          },
+                                          [
+                                            _c("input", {
+                                              staticClass: "form-control",
+                                              attrs: {
+                                                type: "text",
+                                                name: "footer-email",
+                                                required: ""
+                                              }
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", {
+                                              staticClass: "form-bar"
+                                            }),
+                                            _vm._v(" "),
+                                            _c(
+                                              "label",
+                                              { staticClass: "float-label" },
+                                              [_vm._v("Last Name")]
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      { staticClass: "material-group" },
+                                      [
+                                        _c(
+                                          "div",
+                                          { staticClass: "material-addone" },
+                                          [
+                                            _c("i", {
+                                              staticClass:
+                                                "icofont icofont-email"
+                                            })
+                                          ]
+                                        ),
+                                        _vm._v(" "),
+                                        _c(
+                                          "div",
+                                          {
+                                            staticClass:
+                                              "form-group form-primary"
+                                          },
+                                          [
+                                            _c("input", {
+                                              staticClass: "form-control",
+                                              attrs: {
+                                                type: "text",
+                                                name: "footer-email",
+                                                required: ""
+                                              }
+                                            }),
+                                            _vm._v(" "),
+                                            _c("span", {
+                                              staticClass: "form-bar"
+                                            }),
+                                            _vm._v(" "),
+                                            _c(
+                                              "label",
+                                              { staticClass: "float-label" },
+                                              [_vm._v("Email")]
+                                            )
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c("div", { staticClass: "form-group" }, [
+                                      _c(
+                                        "button",
+                                        {
+                                          staticClass:
+                                            "btn btn-primary waves-effect waves-light",
+                                          attrs: { type: "submit" }
+                                        },
+                                        [
+                                          _vm._v(
+                                            "Submit\n                                                                                                        "
+                                          )
+                                        ]
+                                      )
+                                    ])
+                                  ]
+                                )
+                              ])
+                            ]
+                          )
                         ])
+                      ])
+                    ]
+                  )
+                ]
+              )
+            ])
+          ]),
+          _vm._v(" "),
+          _c("div", { staticClass: "card" }, [
+            _c("div", { staticClass: "card-header" }, [
+              _c("h5", [_vm._v("Nueva Categoría")])
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "card-block" }, [
+              _c("form", { staticClass: "floating-labels m-t-40" }, [
+                _c("div", { staticClass: "form-group m-b-40" }, [
+                  _c("span", [
+                    _c("i", { staticClass: "icofont icofont-align-left" })
+                  ]),
+                  _vm._v(" "),
+                  _c("input", {
+                    staticClass: "form-control",
+                    attrs: { type: "text", id: "input1" }
+                  }),
+                  _vm._v(" "),
+                  _c("span", { staticClass: "bar" }),
+                  _vm._v(" "),
+                  _c("label", { attrs: { for: "input1" } }, [
+                    _vm._v("Regular Input")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "form-group m-b-40" }, [
+                  _c("input", {
+                    staticClass: "form-control",
+                    attrs: { type: "password", id: "input2" }
+                  }),
+                  _vm._v(" "),
+                  _c("span", { staticClass: "bar" }),
+                  _vm._v(" "),
+                  _c("label", { attrs: { for: "input2" } }, [
+                    _vm._v("Password")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "form-group m-b-40" }, [
+                  _c("input", {
+                    staticClass: "form-control",
+                    attrs: { type: "text", id: "input3" }
+                  }),
+                  _vm._v(" "),
+                  _c("span", { staticClass: "bar" }),
+                  _vm._v(" "),
+                  _c("label", { attrs: { for: "input3" } }, [
+                    _vm._v("Placeholder")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "form-group m-b-40" }, [
+                  _c("input", {
+                    staticClass: "form-control",
+                    attrs: { type: "text", id: "input4" }
+                  }),
+                  _vm._v(" "),
+                  _c("span", { staticClass: "bar" }),
+                  _vm._v(" "),
+                  _c("label", { attrs: { for: "input4" } }, [
+                    _vm._v("Helping text")
+                  ]),
+                  _vm._v(" "),
+                  _c("span", { staticClass: "help-block" }, [
+                    _c("small", [
+                      _vm._v(
+                        "A block of help text that breaks onto a new line and may extend beyond one line."
+                      )
+                    ])
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "form-group m-b-40" }, [
+                  _c("input", {
+                    staticClass: "form-control",
+                    attrs: {
+                      type: "text",
+                      id: "input5",
+                      "data-toggle": "tooltip",
+                      "data-placement": "bottom",
+                      title: "input with tooltip!!"
+                    }
+                  }),
+                  _vm._v(" "),
+                  _c("span", { staticClass: "bar" }),
+                  _vm._v(" "),
+                  _c("label", { attrs: { for: "input5" } }, [
+                    _vm._v("Input with tooltip")
+                  ])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "form-group m-b-40" }, [
+                  _c("select", { staticClass: "form-control" }, [
+                    _c("option"),
+                    _vm._v(" "),
+                    _c("option", [_vm._v("Malsse")]),
+                    _vm._v(" "),
+                    _c("option", [_vm._v("Female")])
+                  ]),
+                  _c("span", { staticClass: "bar" }),
+                  _vm._v(" "),
+                  _c("label", { attrs: { for: "input6" } }, [_vm._v("Gender")])
+                ]),
+                _vm._v(" "),
+                _c("div", { staticClass: "form-group m-b-5" }, [
+                  _c("textarea", {
+                    staticClass: "form-control",
+                    attrs: { rows: "4", id: "input7" }
+                  }),
+                  _vm._v(" "),
+                  _c("span", { staticClass: "bar" }),
+                  _vm._v(" "),
+                  _c("label", { attrs: { for: "input7" } }, [
+                    _vm._v("Text area")
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("button", { staticClass: "button button-close" }, [
+                _vm._v("Cerrar")
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col-sm-12" }, [
+                  _c("div", { staticClass: "material-group" }, [
+                    _c("div", { staticClass: "material-addone" }, [
+                      _c("i", { staticClass: "icofont icofont-align-left" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "form-group form-primary" }, [
+                      _c("input", {
+                        staticClass: "form-control",
+                        attrs: {
+                          type: "text",
+                          name: "footer-email",
+                          required: ""
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "form-bar" }),
+                      _vm._v(" "),
+                      _c("label", { staticClass: "float-label" }, [
+                        _vm._v("Nombre de Categoría")
                       ]),
                       _vm._v(" "),
-                      _c("div", { staticClass: "row" }, [
-                        _c("div", { staticClass: "col-sm-12" }, [
-                          _c("div", { staticClass: "text-center m-t-20" }, [
-                            _c(
-                              "button",
-                              {
-                                staticClass:
-                                  "btn btn-primary waves-effect waves-light m-r-10",
-                                attrs: { type: "submit" }
-                              },
-                              [
-                                _vm._v(
-                                  "Save\n                                        "
-                                )
-                              ]
-                            ),
-                            _vm._v(" "),
-                            _c(
-                              "button",
-                              {
-                                staticClass:
-                                  "btn btn-warning waves-effect waves-light",
-                                attrs: { type: "button" }
-                              },
-                              [
-                                _vm._v(
-                                  "Discard\n                                        "
-                                )
-                              ]
-                            )
-                          ])
-                        ])
+                      _c("span", { staticClass: "form-bar" })
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row" }),
+              _vm._v(" "),
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col-sm-12" }, [
+                  _c("div", { staticClass: "material-group" }, [
+                    _c("div", { staticClass: "material-addone" }, [
+                      _c("i", { staticClass: "icofont icofont-copy-alt" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "form-group form-primary" }, [
+                      _c("input", {
+                        staticClass: "form-control",
+                        attrs: {
+                          type: "text",
+                          name: "footer-email",
+                          required: ""
+                        }
+                      }),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "form-bar" }),
+                      _vm._v(" "),
+                      _c("label", { staticClass: "float-label" }, [
+                        _vm._v("Descripción")
                       ])
                     ])
                   ])
-                ]
-              )
-            ]
-          )
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col-sm-12" }, [
+                  _c("div", { staticClass: "material-group" }, [
+                    _c("div", { staticClass: "material-addone" }, [
+                      _c("i", { staticClass: "fa fa-exclamation-circle" })
+                    ]),
+                    _vm._v(" "),
+                    _c("div", { staticClass: "form-group form-primary" }, [
+                      _c(
+                        "select",
+                        {
+                          staticClass: "form-control js-example-data-array",
+                          attrs: { name: "select", required: "" }
+                        },
+                        [
+                          _c("option", { attrs: { value: "" } }),
+                          _vm._v(
+                            "Estado\n                                                    "
+                          ),
+                          _c("option", { attrs: { value: "1" } }),
+                          _vm._v(
+                            "Activo\n                                                    "
+                          ),
+                          _c("option", { attrs: { value: "0" } }),
+                          _vm._v(
+                            "Inactivo\n                                                "
+                          )
+                        ]
+                      ),
+                      _vm._v(" "),
+                      _c("span", { staticClass: "form-bar" })
+                    ])
+                  ])
+                ])
+              ]),
+              _vm._v(" "),
+              _c("div", { staticClass: "row" }, [
+                _c("div", { staticClass: "col-sm-12" }, [
+                  _c("div", { staticClass: "text-center m-t-20" }, [
+                    _c(
+                      "button",
+                      {
+                        staticClass:
+                          "btn btn-primary waves-effect waves-light m-r-10",
+                        attrs: { type: "submit" }
+                      },
+                      [
+                        _vm._v(
+                          "Save\n                                                "
+                        )
+                      ]
+                    ),
+                    _vm._v(" "),
+                    _c(
+                      "button",
+                      {
+                        staticClass: "btn btn-warning waves-effect waves-light",
+                        attrs: { type: "button" }
+                      },
+                      [
+                        _vm._v(
+                          "Discard\n                                                "
+                        )
+                      ]
+                    )
+                  ])
+                ])
+              ])
+            ])
+          ])
         ])
       ])
     ])

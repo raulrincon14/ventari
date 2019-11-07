@@ -28,7 +28,6 @@
     <link href="css/style.css" rel="stylesheet">
 
 
-
     <!-- Required Fremwork -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
     <!-- waves.css -->
@@ -46,6 +45,7 @@
     <link rel="stylesheet" type="text/css" href="css/responsive.dataTables.css" />
     <!-- Style.css -->
     <link rel="stylesheet" type="text/css" href="css/stylepagina.css" />
+
     <link rel="stylesheet" type="text/css" href="css/jquery.mCustomScrollbar.css" />
     <link rel="stylesheet" type="text/css" href="css/material-design-iconic-font.min.css" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -222,33 +222,8 @@
                 <div class="pcoded-wrapper">
 
                   @include('plantilla.sidebar')
-                    <div class="pcoded-content">
-
-                  <!-- Page-header start -->
-                        <div class="page-header">
-                            <div class="page-block">
-                                <div class="row align-items-center">
-                                    <div class="col-md-8">
-                                    </div>
-                                    <div class="col-md-4">
-                                        <ul class="breadcrumb">
-                                            <li class="breadcrumb-item">
-                                                <a href="./index.html"> <i class="fa fa-home"></i> </a>
-                                            </li>
-                                            <li class="breadcrumb-item"><a href="#!">Categoría</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Page-header end -->
-
-
-                        <div class="pcoded-inner-content">
                       @yield('contenido')
-                        </div>
-                    </div>
+
                     <!-- Warning Section Starts -->
                     <div id="styleSelector">
 
@@ -358,6 +333,7 @@
     <!-- ============================================================== -->
     <script src="js/jQuery.style.switcher.js"></script>
     <script src="js/app.js"></script>
+    <script src="js/custom.min.js"></script>
 </body>
 
 </html>
