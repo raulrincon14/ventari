@@ -20,15 +20,10 @@
           </div>
       </div>
       <!-- Page-header end -->
-
-
       <div class="pcoded-inner-content">
         <div class="main-body">
-
             <div class="page-wrapper">
                 <div class="page-body">
-
-
 
                     <!-- `New` Constructor table start -->
                     <div class="card">
@@ -267,539 +262,63 @@
                         </div>
                     </div>
                     <!-- `New` Constructor table end -->
-
-
                     <div class="modal fade" id="large-Modal" tabindex="-1" role="dialog">
-                        <div class="modal-dialog modal-md" role="document">
-                          <div class="product-edit">
-                                                                    <ul class="nav nav-tabs nav-justified md-tabs " role="tablist">
-                                                                        <li class="nav-item">
-                                                                            <a class="nav-link active" data-toggle="tab" href="#home7" role="tab">
-                                                                                <div class="f-20">
-                                                                                    <i class="icofont icofont-edit"></i>
-                                                                                </div>
-                                                                                Product Edit</a>
-                                                                                <div class="slide"></div>
-                                                                            </li>
-                                                                            <li class="nav-item">
-                                                                                <a class="nav-link" data-toggle="tab" href="#profile7" role="tab">
-                                                                                    <div class="f-20">
-                                                                                        <i class="icofont icofont-document-search"></i>
-                                                                                    </div>
-                                                                                    SEO Metadata</a>
-                                                                                    <div class="slide"></div>
-                                                                                </li>
-                                                                                <li class="nav-item">
-                                                                                    <a class="nav-link" data-toggle="tab" href="#messages7" role="tab">
-                                                                                        <div class="f-20">
-                                                                                            <i class="icofont icofont-ui-image"></i>
-                                                                                        </div>
-                                                                                        Pictures</a>
-                                                                                        <div class="slide"></div>
-                                                                                    </li>
-                                                                                    <li class="nav-item">
-                                                                                        <a class="nav-link" data-toggle="tab" href="#messages8" role="tab">
-                                                                                            <div class="f-20">
-                                                                                                <i class="icofont icofont-comment"></i>
-                                                                                            </div>
-                                                                                            Reviews</a>
-                                                                                            <div class="slide"></div>
-                                                                                        </li>
-                                                                                    </ul>
-                                                                                    <!-- Tab panes -->
-                                                                                    <div class="tab-content">
-                                                                                        <div class="tab-pane active" id="home7" role="tabpanel">
-                                                                                            <form class="form-material card-block" />
-                                                                                                <div class="row">
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="material-group">
-                                                                                                            <div class="material-addone">
-                                                                                                                <i class="icofont icofont-ui-user"></i>
-                                                                                                            </div>
-                                                                                                            <div class="form-group form-primary">
-                                                                                                                <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                <span class="form-bar"></span>
-                                                                                                                <label class="float-label">First Name</label>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="material-group">
-                                                                                                            <div class="material-addone">
-                                                                                                                <i class="icofont icofont-man-in-glasses"></i>
-                                                                                                            </div>
-                                                                                                            <div class="form-group form-primary">
-                                                                                                                <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                <span class="form-bar"></span>
-                                                                                                                <label class="float-label">Last Name</label>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="row">
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="material-group">
-                                                                                                            <div class="material-addone">
-                                                                                                                <i class="icofont icofont-ui-note"></i>
-                                                                                                            </div>
-                                                                                                            <div class="form-group form-primary">
-                                                                                                                <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                <span class="form-bar"></span>
-                                                                                                                <label class="float-label">Tax</label>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="material-group">
-                                                                                                            <div class="material-addone">
-                                                                                                                <i class="icofont icofont-cur-dollar"></i>
-                                                                                                            </div>
-                                                                                                            <div class="form-group form-primary">
-                                                                                                                <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                <span class="form-bar"></span>
-                                                                                                                <label class="float-label">Price</label>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="row">
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="material-group">
-                                                                                                            <div class="material-addone">
-                                                                                                                <i class="icofont icofont-numbered"></i>
-                                                                                                            </div>
-                                                                                                            <div class="form-group form-primary">
-                                                                                                                <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                <span class="form-bar"></span>
-                                                                                                                <label class="float-label">Quantity</label>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="material-group">
-                                                                                                            <div class="material-addone">
-                                                                                                                <i class="icofont icofont-align-left"></i>
-                                                                                                            </div>
-                                                                                                            <div class="form-group form-primary">
-                                                                                                                <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                <span class="form-bar"></span>
-                                                                                                                <label class="float-label">Categories</label>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="row">
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="material-group">
-                                                                                                            <div class="material-addone">
-                                                                                                                <i class="icofont icofont-copy-alt"></i>
-                                                                                                            </div>
-                                                                                                            <div class="form-group form-primary">
-                                                                                                                <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                <span class="form-bar"></span>
-                                                                                                                <label class="float-label">Product Description</label>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="form-group form-primary">
-                                                                                                            <select name="select" class="form-control">
-                                                                                                                <option value="opt1" />Select One Value Only
-                                                                                                                <option value="opt2" />2
-                                                                                                                <option value="opt3" />3
-                                                                                                                <option value="opt4" />4
-                                                                                                                <option value="opt5" />5
-                                                                                                                <option value="opt6" />6
-                                                                                                            </select>
-                                                                                                            <span class="form-bar"></span>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="row">
-                                                                                                    <div class="col-sm-12">
-                                                                                                        <div class="text-center m-t-20">
-                                                                                                            <button type="button" class="btn btn-primary waves-effect waves-light m-r-10">Save
-                                                                                                            </button>
-                                                                                                            <button type="button" class="btn btn-warning waves-effect waves-light">Discard
-                                                                                                            </button>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </form>
-                                                                                        </div>
-                                                                                        <div class="tab-pane" id="profile7" role="tabpanel">
-                                                                                            <form class="form-material card-block" />
-                                                                                                <div class="row">
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="material-group">
-                                                                                                            <div class="material-addone">
-                                                                                                                <i class="icofont icofont-all-caps"></i>
-                                                                                                            </div>
-                                                                                                            <div class="form-group form-primary">
-                                                                                                                <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                <span class="form-bar"></span>
-                                                                                                                <label class="float-label">Title</label>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="material-group">
-                                                                                                            <div class="material-addone">
-                                                                                                                <i class="icofont icofont-underline"></i>
-                                                                                                            </div>
-                                                                                                            <div class="form-group form-primary">
-                                                                                                                <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                <span class="form-bar"></span>
-                                                                                                                <label class="float-label">Label Name</label>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="row">
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="material-group">
-                                                                                                            <div class="material-addone">
-                                                                                                                <i class="icofont icofont-ui-keyboard"></i>
-                                                                                                            </div>
-                                                                                                            <div class="form-group form-primary">
-                                                                                                                <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                <span class="form-bar"></span>
-                                                                                                                <label class="float-label">Keyword</label>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                    <div class="col-sm-6">
-                                                                                                        <div class="material-group">
-                                                                                                            <div class="material-addone">
-                                                                                                                <i class="icofont icofont-copy-alt"></i>
-                                                                                                            </div>
-                                                                                                            <div class="form-group form-primary">
-                                                                                                                <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                <span class="form-bar"></span>
-                                                                                                                <label class="float-label">Description</label>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <div class="row">
-                                                                                                    <div class="col-sm-12">
-                                                                                                        <div class="text-center m-t-20">
-                                                                                                            <button type="button" class="btn btn-primary waves-effect waves-light m-r-10">Save</button>
-                                                                                                            <button type="button" class="btn btn-warning waves-effect waves-light">Discard</button>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </form>
-                                                                                        </div>
-                                                                                        <div class="tab-pane" id="messages7" role="tabpanel">
-                                                                                            <div class="form-material card-block">
-                                                                                                <div class="row p-t-10 p-b-10">
-                                                                                                    <div class="col-lg-3 col-md-6 col-sm-12">
-                                                                                                        
-                                                                                                    </div>
-                                                                                                    <div class="col-lg-9 col-md-6 col-sm-12">
-                                                                                                        <div class="row">
-                                                                                                            <div class="col-sm-12">
-                                                                                                                <div class="material-group">
-                                                                                                                    <div class="material-addone">
-                                                                                                                        <i class="icofont icofont-all-caps"></i>
-                                                                                                                    </div>
-                                                                                                                    <div class="form-group form-primary">
-                                                                                                                        <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                        <span class="form-bar"></span>
-                                                                                                                        <label class="float-label">Label Name</label>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                                <div class="col-xs-6 edit-left">
-                                                                                                                    <div class="form-radio">
-                                                                                                                        <form />
-                                                                                                                            <div class="radio radiofill">
-                                                                                                                                <label>
-                                                                                                                                    <input type="radio" name="radio" /><i class="helper"></i>Largest Image
-                                                                                                                                </label>
-                                                                                                                            </div>
-                                                                                                                            <div class="radio radiofill">
-                                                                                                                                <label>
-                                                                                                                                    <input type="radio" name="radio" /><i class="helper"></i>Medium Image
-                                                                                                                                </label>
-                                                                                                                            </div>
-                                                                                                                            <div class="radio radiofill">
-                                                                                                                                <label>
-                                                                                                                                    <input type="radio" name="radio" /><i class="helper"></i>Small Image
-                                                                                                                                </label>
-                                                                                                                            </div>
-                                                                                                                        </form>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                                <div class="col-xs-6 edit-right text-right">
-                                                                                                                    <button type="button" class="btn btn-danger waves-effect waves-light">Remove
-                                                                                                                        <i class="icofont icofont-close-circled f-16 m-l-5"></i>
-                                                                                                                    </button>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <hr />
-                                                                                                <div class="row p-t-10 p-b-10">
-                                                                                                    <div class="col-lg-3 col-md-6 col-sm-12">
 
-                                                                                                    </div>
-                                                                                                    <div class="col-lg-9 col-md-6 col-sm-12">
-                                                                                                        <div class="row">
-                                                                                                            <div class="col-sm-12">
-                                                                                                                <div class="material-group">
-                                                                                                                    <div class="material-addone">
-                                                                                                                        <i class="icofont icofont-all-caps"></i>
-                                                                                                                    </div>
-                                                                                                                    <div class="form-group form-primary">
-                                                                                                                        <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                        <span class="form-bar"></span>
-                                                                                                                        <label class="float-label">Label Name</label>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                                <div class="col-xs-6 edit-left">
-                                                                                                                    <div class="form-radio">
-                                                                                                                        <form />
-                                                                                                                            <div class="radio radiofill">
-                                                                                                                                <label>
-                                                                                                                                    <input type="radio" name="radio" /><i class="helper"></i>Largest Image
-                                                                                                                                </label>
-                                                                                                                            </div>
-                                                                                                                            <div class="radio radiofill">
-                                                                                                                                <label>
-                                                                                                                                    <input type="radio" name="radio" /><i class="helper"></i>Medium Image
-                                                                                                                                </label>
-                                                                                                                            </div>
-                                                                                                                            <div class="radio radiofill">
-                                                                                                                                <label>
-                                                                                                                                    <input type="radio" name="radio" /><i class="helper"></i>Small Image
-                                                                                                                                </label>
-                                                                                                                            </div>
-                                                                                                                        </form>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                                <div class="col-xs-6 edit-right text-right">
-                                                                                                                    <button type="button" class="btn btn-danger waves-effect waves-light">Remove
-                                                                                                                        <i class="icofont icofont-close-circled f-16 m-l-5"></i>
-                                                                                                                    </button>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <hr />
-                                                                                                <div class="row p-t-10">
-                                                                                                    <div class="col-lg-3 col-md-6 col-sm-12">
-
-                                                                                                        </a>
-                                                                                                    </div>
-                                                                                                    <div class="col-lg-9 col-md-6 col-sm-12">
-                                                                                                        <div class="row">
-                                                                                                            <div class="col-sm-12">
-                                                                                                                <div class="material-group">
-                                                                                                                    <div class="material-addone">
-                                                                                                                        <i class="icofont icofont-all-caps"></i>
-                                                                                                                    </div>
-                                                                                                                    <div class="form-group form-primary">
-                                                                                                                        <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                                        <span class="form-bar"></span>
-                                                                                                                        <label class="float-label">Label Name</label>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                                <div class="col-xs-6 edit-left">
-                                                                                                                    <div class="form-radio">
-                                                                                                                        <form />
-                                                                                                                            <div class="radio radiofill">
-                                                                                                                                <label>
-                                                                                                                                    <input type="radio" name="radio" /><i class="helper"></i>Largest Image
-                                                                                                                                </label>
-                                                                                                                            </div>
-                                                                                                                            <div class="radio radiofill">
-                                                                                                                                <label>
-                                                                                                                                    <input type="radio" name="radio" /><i class="helper"></i>Medium Image
-                                                                                                                                </label>
-                                                                                                                            </div>
-                                                                                                                            <div class="radio radiofill">
-                                                                                                                                <label>
-                                                                                                                                    <input type="radio" name="radio" /><i class="helper"></i>Small Image
-                                                                                                                                </label>
-                                                                                                                            </div>
-                                                                                                                        </form>
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                                <div class="col-xs-6 edit-right text-right">
-                                                                                                                    <button type="button" class="btn btn-danger waves-effect waves-light">Remove
-                                                                                                                        <i class="icofont icofont-close-circled f-16 m-l-5"></i>
-                                                                                                                    </button>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                                <hr />
-                                                                                            </div>
-                                                                                        </div>
-                                                                                        <div class="tab-pane" id="messages8" role="tabpanel">
-                                                                                            <div class="container">
-                                                                                                <div class="form-material card-block">
-                                                                                                    <div class="text-muted f-w-400">
-                                                                                                        No reviews yet.
-                                                                                                    </div>
-                                                                                                    <div class="m-t-10">
-                                                                                                        <div class="txt-primary f-18 f-w-600">Your Rating</div>
-                                                                                                        <div class="stars stars-example-css detail-stars">
-                                                                                                            <select id="product-view" class="rating-star" name="rating" autocomplete="off">
-                                                                                                                <option value="1" />1
-                                                                                                                <option value="2" />2
-                                                                                                                <option value="3" />3
-                                                                                                                <option value="4" />4
-                                                                                                                <option value="5" />5
-                                                                                                            </select>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                    <div class="material-group">
-                                                                                                        <div class="material-addone">
-                                                                                                            <i class="icofont icofont-underline"></i>
-                                                                                                        </div>
-                                                                                                        <div class="form-group form-primary">
-                                                                                                            <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                            <span class="form-bar"></span>
-                                                                                                            <label class="float-label">User Name</label>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                    <div class="material-group">
-                                                                                                        <div class="material-addone">
-                                                                                                            <i class="icofont icofont-man-in-glasses"></i>
-                                                                                                        </div>
-                                                                                                        <div class="form-group form-primary">
-                                                                                                            <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                            <span class="form-bar"></span>
-                                                                                                            <label class="float-label">Last Name</label>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                    <div class="material-group">
-                                                                                                        <div class="material-addone">
-                                                                                                            <i class="icofont icofont-email"></i>
-                                                                                                        </div>
-                                                                                                        <div class="form-group form-primary">
-                                                                                                            <input type="text" name="footer-email" class="form-control" required="" />
-                                                                                                            <span class="form-bar"></span>
-                                                                                                            <label class="float-label">Email</label>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                    <div class="form-group">
-                                                                                                        <button type="submit" class="btn btn-primary waves-effect waves-light">Submit
-                                                                                                        </button>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
                           <div class="card">
                               <div class="card-header">
                                   <h5>Nueva Categoría</h5>
                               </div>
                               <div class="card-block">
-                                <form class="floating-labels m-t-40">
-                                    <div class="form-group m-b-40">
-                                      <span>
-                                        <i class="icofont icofont-align-left"></i>
-                                      </span>
-                                        <input type="text" class="form-control" id="input1">
-                                        <span class="bar"></span>
-                                        <label for="input1">Regular Input</label>
-                                    </div>
-                                    <div class="form-group m-b-40">
-                                        <input type="password" class="form-control" id="input2">
-                                        <span class="bar"></span>
-                                        <label for="input2">Password</label>
-                                    </div>
-                                    <div class="form-group m-b-40">
-                                        <input type="text" class="form-control" id="input3">
-                                        <span class="bar"></span>
-                                        <label for="input3">Placeholder</label>
-                                    </div>
-                                    <div class="form-group m-b-40">
-                                        <input type="text" class="form-control" id="input4">
-                                        <span class="bar"></span>
-                                        <label for="input4">Helping text</label>
-                                        <span class="help-block"><small>A block of help text that breaks onto a new line and may extend beyond one line.</small></span> </div>
-                                    <div class="form-group m-b-40">
-                                        <input type="text" class="form-control" id="input5" data-toggle="tooltip" data-placement="bottom" title="input with tooltip!!">
-                                        <span class="bar"></span>
-                                        <label for="input5">Input with tooltip</label>
-                                    </div>
-                                    <div class="form-group m-b-40">
-                                        <select class="form-control">
-                                            <option></option>
-                                            <option>Malsse</option>
-                                            <option>Female</option>
-                                        </select><span class="bar"></span>
-                                        <label for="input6">Gender</label>
-                                    </div>
-                                    <div class="form-group m-b-5">
-                                        <textarea class="form-control" rows="4" id="input7"></textarea>
-                                        <span class="bar"></span>
-                                        <label for="input7">Text area</label>
-                                    </div>
-                                </form>
-                                <button class="button button-close">Cerrar</button>
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                          <div class="material-group">
-                                              <div class="material-addone">
-                                                  <i class="icofont icofont-align-left"></i>
-                                              </div>
-                                              <div class="form-group form-primary">
-                                                  <input type="text" name="footer-email" class="form-control" required="" />
-                                                  <span class="form-bar"></span>
-                                                  <label class="float-label">Nombre de Categoría</label>
-                                                  <span class="form-bar"></span>
-                                              </div>
-                                          </div>
-                                        </div>
 
-                                    </div>
-                                    <div class="row">
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                            <div class="material-group">
-                                                <div class="material-addone">
-                                                    <i class="icofont icofont-copy-alt"></i>
-                                                </div>
-                                                <div class="form-group form-primary">
-                                                    <input type="text" name="footer-email" class="form-control" required="" />
-                                                    <span class="form-bar"></span>
-                                                    <label class="float-label">Descripción</label>
-                                                </div>
+                                <div class="container">
+                                    <div class="form-material card-block">
+
+                                        <div class="m-t-10">
+                                            <div class="txt-primary f-18 f-w-600">Your Rating</div>
+                                            <div class="stars stars-example-css detail-stars">
+                                                <select id="product-view" class="rating-star" name="rating" autocomplete="off">
+                                                    <option value="1" />1
+                                                    <option value="2" />2
+                                                    <option value="3" />3
+                                                    <option value="4" />4
+                                                    <option value="5" />5
+                                                </select>
                                             </div>
                                         </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-sm-12">
-                                          <div class="material-group">
+                                        <div class="material-group">
                                             <div class="material-addone">
-                                                <i class="fa fa-exclamation-circle"></i>
+                                                <i class="icofont icofont-underline"></i>
                                             </div>
                                             <div class="form-group form-primary">
-                                                <select name="select" class="form-control js-example-data-array" required>
-                                                    <option value=""/>Estado
-                                                    <option value="1" />Activo
-                                                    <option value="0" />Inactivo
-                                                </select>
+                                                <input type="text" name="footer-email" class="form-control" required="" />
                                                 <span class="form-bar"></span>
+                                                <label class="float-label">User Name</label>
                                             </div>
-                                          </div>
-
                                         </div>
+                                        <div class="material-group">
+                                            <div class="material-addone">
+                                                <i class="icofont icofont-man-in-glasses"></i>
+                                            </div>
+                                            <div class="form-group form-primary">
+                                                <input type="text" name="footer-email" class="form-control" required="" />
+                                                <span class="form-bar"></span>
+                                                <label class="float-label">Last Name</label>
+                                            </div>
+                                        </div>
+                                        <div class="material-group">
+                                            <div class="material-addone">
+                                                <i class="icofont icofont-email"></i>
+                                            </div>
+                                            <div class="form-group form-primary">
+                                                <input type="text" name="footer-email" class="form-control" required="" />
+                                                <span class="form-bar"></span>
+                                                <label class="float-label">Email</label>
+                                            </div>
+                                        </div>
+
                                     </div>
+                                </div>
+
                                     <div class="row">
                                         <div class="col-sm-12">
                                             <div class="text-center m-t-20">
@@ -810,7 +329,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                </form>
+
                               </div>
                           </div>
 
@@ -819,10 +338,9 @@
 
                 </div>
             </div>
-
-        </div>
+          </div>
       </div>
-  </div>
+
 
 </template>
 
